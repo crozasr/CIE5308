@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Notes}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}18.03.16 - lecture introducing exercise}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Document Structure}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Cover and Title Page}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Chapters}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}\textbackslash section\{\ldots \}}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}\textbackslash subsection\{\ldots \}}{6}{subsection.2.4.1}
+\contentsline {subsubsection}{\textbackslash subsubsection\{\ldots \}}{6}{subsection.2.4.1}
+\contentsline {paragraph}{\textbackslash paragraph\{\ldots \}}{6}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Fonts and Colors}{6}{section.2.5}
+\contentsline {chapter}{\numberline {A}Function GumbelUnc.mat}{7}{appendix.A}
+\contentsline {chapter}{Bibliography}{9}{appendix*.2}
+\contentsfinish 
