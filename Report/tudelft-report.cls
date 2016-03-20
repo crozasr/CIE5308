@@ -441,7 +441,7 @@
 %                     \\[3mm]
                      \vfill
                      
-                     {\titlefont\color{\@subtitlecolor}\fontsize{52}{52}\selectfont\@subtitle}
+                     {\titlefont\color{\@subtitlecolor}\fontsize{38}{38}\selectfont\@subtitle}
                    \fi
                  %% Print the author.
                    \vfill
