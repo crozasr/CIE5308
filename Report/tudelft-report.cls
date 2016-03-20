@@ -526,14 +526,15 @@
 %% Remove the header and page number on empty pages.
 \def\cleardoublepage{%
     \clearpage%
-    \if@twoside%
-        \ifodd\c@page%
-        \else%
-            \thispagestyle{empty}%
-            \vspace*{\fill}%
-            \newpage%
-        \fi%
-    \fi%
+%%uncomment following 8 lines to get empty pages, so that each chapter starts on the right page
+%     \if@twoside%
+%         \ifodd\c@page%
+%         \else%
+%             \thispagestyle{empty}%
+%             \vspace*{\fill}%
+%             \newpage%
+%         \fi%
+%     \fi%
 }
 
 %% Page style for title pages.

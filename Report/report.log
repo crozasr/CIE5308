@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  18 MAR 2016 15:53
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  20 MAR 2016 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1594,10 +1594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 
 
 
-] (./title.tex [2
-
-
-]
+] (./title.tex
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 52.
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
@@ -1615,27 +1612,29 @@ LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 52.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: cover/logo_black.pdf Graphic file (type QTm)
 
-<use  "cover/logo_black.pdf" > [1]) [2
+<use  "cover/logo_black.pdf" > [1
 
-] (./report.toc)
+
+]) (./report.toc)
 \tf@toc=\write5
 \openout5 = `report.toc'.
 
- [3] [4
+ [2
 
-]
-(./sections/notes.tex
+] (./sections/notes.tex
 Chapter 1.
 [1
 
+
 ]) (./sections/introduction.tex [2]
 Chapter 2.
-Missing character: There is no ᩐ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no უ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
 (Font)              scaled to size 8.00012pt on input line 3.
@@ -1649,7 +1648,7 @@ LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 3.
 LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 3.
-Missing character: There is no ᦪ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ွ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
 
 Overfull \hbox (14.75818pt too wide) in paragraph at lines 29--30
@@ -1674,14 +1673,14 @@ CourierNewPS(0)/m/n/10 tudelft-
 Appendix A.
 ) (./report.bbl [7
 
-] [8
-
 ])
 \Changes@OutFile=\write6
 \openout6 = `report.soc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
- [9]
+ [8
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./report.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 77.
@@ -1691,10 +1690,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
 Here is how much of TeX's memory you used:
  37801 strings out of 493918
  683227 string characters out of 6150562
- 798481 words of memory out of 5000000
+ 798461 words of memory out of 5000000
  40478 multiletter control sequences out of 15000+600000
  9715 words of font info for 101 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  63i,11n,66p,10430b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.pdf (15 pages).
+Output written on report.pdf (11 pages).
