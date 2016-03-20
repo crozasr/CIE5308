@@ -447,7 +447,7 @@
                    \vfill
                   
                    %{\titlefont\color{\@authorcolor}\fontsize{52}{52}\selectfont\@author}
-                   {\titlefont\color{\@authorcolor}\fontsize{30}{30}\selectfont\@author}
+                   {\titlefont\color{\@authorcolor}\fontsize{26}{26}\selectfont\@author}
                    \ifx\@cover@text\undefined\else
                      \vfill
                      

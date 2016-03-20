@@ -1,8 +1,15 @@
 \documentclass[whitelogo]{tudelft-report}
+
+%% Packages
 \usepackage{natbib}
 \usepackage{changes}
+\usepackage{tabu}
+\usepackage{booktabs} %for horizontal lines in tables: \toprule[1pt], \midrule[1pt], \bottomrule[1pt]
 
-%% to compile the pdf do:
+%% Layout: customized for this certain report
+\setlength{\parindent}{0cm} %no indentation in first line of paragraph
+
+%% Compilation: to compile the pdf do (if it is not done automatically):
 %% xelatex report
 %% bibtex report
 %% xelatex report
@@ -66,6 +73,13 @@
 
 \input{sections/notes}
 \input{sections/introduction}
+\input{sections/criteria}
+\input{sections/boundary}
+\input{sections/calculations}
+\input{sections/drawing}
+\input{sections/construction}
+\input{sections/research}
+
 
 %% Use letters for the chapter numbers of the appendices.
 \appendix
