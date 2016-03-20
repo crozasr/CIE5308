@@ -1,13 +1,18 @@
 \chapter{Design Criteria}
 
 see exercise 3.1
+\begin{itemize}
+ \item Earth quakes: slope not steeper than 1:1.5, p. 4 of 5 Memo
+ \item 
+\end{itemize}
+
 
 \begin{center}
 \begin{table}[!htb]
 \begin{tabu}{X[2l] X[1c] X[2c] X[1c] X[1c]}
-Requirement & Return period & Verification method(s) & Design value & Calculated value\\
+\textbf{Requirement} & \textbf{Return period} & \textbf{Verification method(s)} & \textbf{Design value} & \textbf{Calculated value}\\
 \\
-\hline\\
+\toprule[2pt]
 this is supposed to be a verly long text to check whether it will automatically insert a line break & this is supposed to be a verly long text to check whether it will automatically insert a line break & this is supposed to be a verly long text to check whether it will automatically insert a line break & this is supposed to be a verly long text to check whether it will automatically insert a line break & this is supposed to be a verly long text to check whether it will automatically insert a line break\\
 \\
 × & × & × & × & ×\\
@@ -26,10 +31,9 @@ this is supposed to be a verly long text to check whether it will automatically 
 \\
 × & × & × & × & ×\\
 \\
-× & × & × & × & ×
-
+× & × & × & × & ×\\
+\bottomrule[2pt]
 \end{tabu}
-\bottomrule
 \caption{List of requirements}
 \label{tab:requirements}
 \end{table}

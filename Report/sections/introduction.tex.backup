@@ -20,12 +20,9 @@ By \textit{Group 3} the breakwater in the South is looked at:
 \textbf{Parameter} & \textbf{Value} & \textbf{Comment}\\
 \\
 \toprule[2pt]
-Design life                    & 100 years     & \\
-Annual downtime                & 3\%           & \\
-Quay level                     & AL+2.0m       & \\
-Current rock armour (seaward)  & 3 to 5 tons   & \\
-Current rock armour (landward) & 0.5 to 3 tons & \\
-Current core material          & 0 to 1000 kg  & quarry run material\\
+Design life     & 100 years & \\
+Annual downtime & 3\%       & \\
+Quay level      & AL+2.0m   & \\
 
 \bottomrule[2pt]
 \end{tabu}
