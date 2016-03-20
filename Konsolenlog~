@@ -68,6 +68,4 @@ git push
 [   323db52..de4af82  master -> master]
 
 
-[Download gitkraken von gitkraken.com, das ist eine GUI]
-[Dort musst du unter Einstellungen (Zahnrad oben rechts) mit deinem GitHub Account verbinden und dann unter "File">"Open Repo" das CIE5308 öffnen]
-[Dort zeigt er dir dann die Versionen und was so gemacht wurde an. Die Dateien kannst du dort aber nicht anzeigen lassen, jedenfalls habe ich das noch nicht gefunden. Nur die die gelöscht/hinzugefügt wurden)]
+
