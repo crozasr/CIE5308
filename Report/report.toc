@@ -1,19 +1,17 @@
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Notes}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}18.03.16 - lecture introducing exercise}{1}{section.1.1}
-\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}General Task}{3}{section.2.1}
-\contentsline {chapter}{\numberline {3}Design Criteria}{4}{chapter.3}
-\contentsline {chapter}{\numberline {4}Boundary Conditions}{5}{chapter.4}
-\contentsline {section}{\numberline {4.1}Location}{5}{section.4.1}
-\contentsline {section}{\numberline {4.2}Subsoil}{5}{section.4.2}
-\contentsline {section}{\numberline {4.3}Reference levels}{5}{section.4.3}
-\contentsline {section}{\numberline {4.4}Bathymetry}{5}{section.4.4}
-\contentsline {section}{\numberline {4.5}Waves}{5}{section.4.5}
-\contentsline {chapter}{\numberline {5}Design Calculations}{6}{chapter.5}
-\contentsline {chapter}{\numberline {6}Drawing}{7}{chapter.6}
-\contentsline {chapter}{\numberline {7}Construction Method and Planning}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Further Research and Validation}{10}{chapter.8}
-\contentsline {chapter}{\numberline {A}Function GumbelUnc.mat}{11}{appendix.A}
-\contentsline {chapter}{Bibliography}{12}{appendix*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}General Task}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Design Criteria}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Boundary Conditions}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Location}{3}{section.3.1}
+\contentsline {section}{\numberline {3.2}Subsoil}{3}{section.3.2}
+\contentsline {section}{\numberline {3.3}Reference levels}{3}{section.3.3}
+\contentsline {section}{\numberline {3.4}Bathymetry}{3}{section.3.4}
+\contentsline {section}{\numberline {3.5}Waves}{3}{section.3.5}
+\contentsline {chapter}{\numberline {4}Design Calculations}{4}{chapter.4}
+\contentsline {chapter}{\numberline {5}Drawing}{5}{chapter.5}
+\contentsline {chapter}{\numberline {6}Construction Method and Planning}{7}{chapter.6}
+\contentsline {chapter}{\numberline {7}Further Research and Validation}{8}{chapter.7}
+\contentsline {chapter}{\numberline {A}Function GumbelUnc.mat}{9}{appendix.A}
+\contentsline {chapter}{Bibliography}{10}{appendix*.4}
 \contentsfinish 
