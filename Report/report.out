@@ -1,15 +1,11 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{General\040Task}{chapter.1}% 2
-\BOOKMARK [0][-]{chapter.2}{Design\040Criteria}{}% 3
-\BOOKMARK [0][-]{chapter.3}{Boundary\040Conditions}{}% 4
+\BOOKMARK [1][-]{section.1.1}{General Task}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Design Criteria}{}% 3
+\BOOKMARK [0][-]{chapter.3}{Boundary Conditions}{}% 4
 \BOOKMARK [1][-]{section.3.1}{Location}{chapter.3}% 5
 \BOOKMARK [1][-]{section.3.2}{Subsoil}{chapter.3}% 6
-\BOOKMARK [1][-]{section.3.3}{Reference\040levels}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.3}{Reference levels}{chapter.3}% 7
 \BOOKMARK [1][-]{section.3.4}{Bathymetry}{chapter.3}% 8
 \BOOKMARK [1][-]{section.3.5}{Waves}{chapter.3}% 9
-\BOOKMARK [0][-]{chapter.4}{Design\040Calculations}{}% 10
-\BOOKMARK [0][-]{chapter.5}{Drawing}{}% 11
-\BOOKMARK [0][-]{chapter.6}{Construction\040Method\040and\040Planning}{}% 12
-\BOOKMARK [0][-]{chapter.7}{Further\040Research\040and\040Validation}{}% 13
-\BOOKMARK [0][-]{appendix.A}{Function\040GumbelUnc.mat}{}% 14
-\BOOKMARK [0][-]{appendix*.4}{Bibliography}{}% 15
+\BOOKMARK [2][-]{subsection.3.5.1}{Design storm}{section.3.5}% 10
+\BOOKMARK [2][-]{subsection.3.5.2}{Near-shore Wave model}{section.3.5}% 11
