@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.13)  28 MAR 2016 20:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.13)  28 MAR 2016 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1481,25 +1481,145 @@ File: images/Hsig_Depth_Plot.png Graphic file (type png)
 Package pdftex.def Info: images/Hsig_Depth_Plot.png used on input line 47.
 (pdftex.def)             Requested size: 448.1309pt x 336.10577pt.
 
-Overfull \hbox (12.35977pt too wide) in paragraph at lines 47--50
+Overfull \hbox (12.35977pt too wide) in paragraph at lines 47--48
  [] 
  []
 
-! TeX capacity exceeded, sorry [input stack size=5000].
-\caption@ifstrut #1#2->#1
-                         
-l.50 \end
-         {figure}
-If you really absolutely need more capacity,
-you can ask a wizard to enlarge me.
+) (./sections/calculations.tex [4] [5 <./images/Hsig_Depth_Plot.png (PNG copy)>
+]
+Chapter 4.
+) (./sections/drawing.tex [6
+
+]
+Chapter 5.
+[7
+
+] [8
+
+]) (./sections/construction.tex
+Chapter 6.
+) (./sections/research.tex [9
+
+]
+Chapter 7.
+) (./appendices/appendix-a.tex [10
+
+]
+Appendix A.
+<images/wave_pperiod_allyear.png, id=132, 867.24pt x 487.8225pt>
+File: images/wave_pperiod_allyear.png Graphic file (type png)
+
+<use images/wave_pperiod_allyear.png>
+Package pdftex.def Info: images/wave_pperiod_allyear.png used on input line 8.
+(pdftex.def)             Requested size: 448.1309pt x 252.07623pt.
+)
+Runaway argument?
+{Distribution of peak-period over wave hight]{Distribution of peak-pe\ETC.
+! File ended while scanning use of \caption@xdblarg.
+<inserted text> 
+                \par 
+l.87 \input{appendices/appendix-a}
+                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+
+Overfull \hbox (12.35977pt too wide) in paragraph at lines 8--88
+ [] 
+ []
+
+(./report.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+\Changes@OutFile=\write6
+\openout6 = `report.soc'.
+
+
+! LaTeX Error: \begin{figure} on input line 4 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+(./report.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: 49AB30C171BE3C41DA86914616A6AFD7;626
+(rerunfilecheck)             After:  44F8E4829F0AFBD613B027CDE582189E;859.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+! You can't use `\end' in internal vertical mode.
+\enddocument ...es \z@ \Call@AtVeryVeryEnd \@@end 
+                                                  
+l.91 \end{document}
+                   
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{figure} on input line 4 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.91 \end{document}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
+! Emergency stop.
+<*> report.tex
+              
+*** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 22306 strings out of 493109
- 392259 string characters out of 6138586
+ 22355 strings out of 493109
+ 392990 string characters out of 6138586
  472034 words of memory out of 5000000
- 25238 multiletter control sequences out of 15000+600000
+ 25252 multiletter control sequences out of 15000+600000
  86645 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 5000i,15n,5006p,834b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,66p,834b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
