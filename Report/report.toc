@@ -14,4 +14,6 @@
 \contentsline {chapter}{\numberline {5}Drawing}{7}{chapter.5}
 \contentsline {chapter}{\numberline {6}Construction Method and Planning}{9}{chapter.6}
 \contentsline {chapter}{\numberline {7}Further Research and Validation}{10}{chapter.7}
+\contentsline {chapter}{\numberline {A}Appendix A}{11}{appendix.A}
+\contentsline {chapter}{Bibliography}{14}{appendix*.8}
 \contentsfinish 
