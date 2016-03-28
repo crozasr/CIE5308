@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  28 MAR 2016 20:12
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  28 MAR 2016 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1724,12 +1724,7 @@ Chapter 4.
 Chapter 5.
 [7
 
-]
-Overfull \hbox (13.35997pt too wide) in paragraph at lines 7--9
-\EU1/Arial(0)/m/n/24.88 add the folded A3 of our drawing after print-
- []
-
-[8
+] [8
 
 ]) (./sections/construction.tex
 Chapter 6.
@@ -1761,30 +1756,7 @@ Overfull \hbox (12.35663pt too wide) in paragraph at lines 28--29
 
 ) (./report.bbl [11
 
-] [12] [13]
-LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 24.88037pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 20.74031pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
-(Font)              scaled to size 17.28026pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 24.87962pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 20.73969pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 17.27972pt on input line 14.
-
-Underfull \hbox (badness 2762) in paragraph at lines 9--15
-[]\EU1/Arial(0)/m/n/24.88 A. K. Geim and H. A. M. S. ter
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 9--15
-\EU1/Arial(0)/m/n/24.88 Tisha.  Detection of earth rotation
- []
-
-)
+] [12] [13])
 \Changes@OutFile=\write6
 \openout6 = `report.soc'.
 
@@ -1799,12 +1771,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 91.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 38642 strings out of 493918
- 695485 string characters out of 6150562
+ 38608 strings out of 493918
+ 694207 string characters out of 6150562
  813160 words of memory out of 5000000
- 41280 multiletter control sequences out of 15000+600000
- 12590 words of font info for 118 fonts, out of 8000000 for 9000
+ 41259 multiletter control sequences out of 15000+600000
+ 9683 words of font info for 97 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 63i,15n,66p,10411b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,15n,66p,10411b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on report.pdf (17 pages).
