@@ -1,0 +1,35 @@
+\chapter{Introduction}
+
+\section{General Task}
+
+By \textit{Group 3} the breakwater in the South is looked at:
+\begin{itemize}
+ \item adjacent to roundhead, axis 315\textsuperscript{o}
+ \item rubble mound single layer cubes
+ \item rehabilitation
+ \item 100 years design life
+ \item quay wall in future
+\end{itemize}
+
+\citep{Geim2001} $\leftarrow$ this can be deleted as soon, as there is any other citation we can place, so to prevent error messages due to ``no citations found''
+
+
+\begin{center}
+\begin{table}[!htb]
+\begin{tabu}{X[2l] X[1c] X[2c]}
+\textbf{Parameter} & \textbf{Value} & \textbf{Comment}\\
+\\
+\toprule[2pt]
+Design life                    & 100 years     & \\
+Annual downtime                & 3\%           & \\
+Quay level                     & AL+2.0m       & \\
+Current rock armour (seaward)  & 3 to 5 tons   & \\
+Current rock armour (landward) & 0.5 to 3 tons & \\
+Current core material          & 0 to 1000 kg  & quarry run material\\
+
+\bottomrule[2pt]
+\end{tabu}
+\caption{Parameters given by exercise}
+\label{tab:paramsExercise}
+\end{table}
+\end{center}
