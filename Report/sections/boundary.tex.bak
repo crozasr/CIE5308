@@ -14,7 +14,7 @@ see exercise 3.2
 Wave heights and the return period of wave events are essential for determine the dimensions of a breakwater. Especially for estimating the size of the amour layer and hence the size of under-layer material, is the wave hight the dominant parameter. Furthermore the order of the run-up and over-topping magnitude is mainly dependent on the wave hight.
 \subsection{Design storm}
 The design storm with less than 20\% probability of failure of the breakwater within a lifetime of 100 years returns every 500 years.
-The available 22 years of (modelled) wave data\footnote{ARGOSS XX} close to the site is analysed in a Peak over Threshold analysis using a threshold of $H_s=1.5m$, a storm duration of nine hours and a Weibull distribution to extrapolate the data.
+The available 22 years of (modelled) wave data\footnote{ARGOSS XX} close to the site is analysed in a Peak over Threshold analysis using a threshold of $H_s=1.5m$, a storm duration of nine hours and a Weibull distribution to extrapolate the data. The wave-data from Argoss were checked for reliability (see appendix).
 This yields a significant wave height of $H_{ss}=7.91m$ for a 500 year storm, which is chosen to be the deep water design wave height: $H_{ss,d}=7.91m$.
 
 According to the distribution of the wave hight over peak wave periods from the wave model of Argoss %(appendix \ref{Distribution_pperiod}) 
@@ -48,4 +48,3 @@ and the actual value for the significant design wave hight from a one in 500 yea
 \caption{Rose-diagram waves}
 %\label{Hsig_Depth_Plot}
 \end{figure}
-
