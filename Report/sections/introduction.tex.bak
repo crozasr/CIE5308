@@ -17,9 +17,10 @@ By \textit{Group 3} the breakwater in the South is looked at:
 \begin{center}
 \begin{table}[!htb]
 \begin{tabu}{X[2l] X[1c] X[2c]}
+\toprule[2pt]
 \textbf{Parameter} & \textbf{Value} & \textbf{Comment}\\
 \\
-\toprule[2pt]
+\midrule
 Design life                    & 100 years     & \\
 Annual downtime                & 3\%           & \\
 Quay level                     & AL+2.0m       & \\

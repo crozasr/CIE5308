@@ -3,13 +3,59 @@
 see exercise 3.2
 
 \section{Location}
+The Romano Port is located at the west-coast of Albania in the Adriatic Sea, 7.5 km north from the city Durr\"{o}es and around 30 km from the capital of Albania Tirana. 
+Albania has a HDI (Human Development Index) of 7.33 which puts the country to the "high human development category" according to the HDI report of the UN 2015 like Algeria, Brazil or Turkey. 
 
 \section{Subsoil}
-
+Subsoil matters are not included in this breakwater design. It is assumed, that the soil can resist all loads and that no soil-improvement needs to be done.
 \section{Reference levels}
+\begin{center}
+\begin{table}[!htb]
+\begin{tabu}{X[2l] X[2c]}
+\toprule[2pt]
+\textbf{Tide} & \textbf{Water Level [m AL]} \\
+\\
+\midrule
+HAT & -0.324\\
+\\
+HHWS & -0.336\\
+\\
+MHWS & -0.349\\
+\\
+MHW & -0.421 \\
+\\
+MHWN & -0.476\\
+\\
+MLWN & -0.605\\
+\\
+MLW & -0.652\\
+\\
+MLWS & -0.7\\
+\\
+LLWS & -0.71\\
+\\
+LAT & -0.722\\
+
+\bottomrule[2pt]
+\end{tabu}
+\caption{Tidal water levels at Durr\"{o}es}
+\label{tab:tidal_level}
+\end{table}
+\end{center}
+As shown in table \ref{tab:tidal_level} the relative Albanian Level (AL) ,which is +0.535 m above Mean Sea Level, leads to the rewriting of tidal elevations. Every water level in this assignment will be given according to AL.
 
 \section{Bathymetry}
 
+\section{Additional Water Level}
+Due to the following factors the water level rises for the design conditions with 1.3 m according to the mean water level:
+\begin{itemize}
+\item Tidal differenz: +0.211
+\item Sea Level Rise: $0.005 m/year * 100 years = +0.5 m$
+\item Seasonal effects: +0.07
+\item Atmospheric pressure drop: +0.33 m
+\item Wind set-up + seiches: +0.17	
+\end{itemize}
+Which leads to an increase of the water level in a hundred years for the combination of all effects of 1.281 m which will be considered as 1.3 m to get some small extra safety as an engineering approach.
 \section{Waves}
 Wave heights and the return period of wave events are essential for determine the dimensions of a breakwater. Especially for estimating the size of the amour layer and hence the size of under-layer material, is the wave hight the dominant parameter. Furthermore the order of the run-up and over-topping magnitude is mainly dependent on the wave hight.
 \subsection{Design storm}
@@ -26,25 +72,26 @@ The Distribution of the wind and the wind speed at 10 m hight was created throug
 \subsection{Near-shore Wave model}
 SwanOne was used to estimate the wave development at near-shore. The Input parameters are in this case:
 \begin{itemize}
-\item the generated two dimensional bathymetry
-\item the wave hight
-\item peak period
-\item wind velocity
-\item angle of incidence 	
+\item The generated two dimensional bathymetry
+\item The additional water level
+\item The wave hight
+\item Peak period
+\item Wind velocity
+\item Angle of incidence 	
 \end{itemize}
-In the Swan model we included the set up due to wave action but we neglected additional wind, because it is included in the offshore wave data we gained and currents were neglected due to the location in the Mediterranean See with hardly any currents.
-Bathymetry, wave hight, wind velocity and peak period were determined before, but now different angles of wave attack need to be considered.
-For determine which angles are of interest for the occurrence of sea and swell waves the Argoss data are checked again 
-%\ref{wavedata_angle}
-. As a result from the analysis the dominant direction for waves to occur are NW and S, which matches with the geographical expectations. Due to the orientation of the breakwater at the coast the waves from NW will arrive with a very large angle close to 90$^\circ$ according to the breakwater why the wave energy attacking the breakwater is quite small. Because of the small fetch length just wave with relative low energy will arrive perpendicular to the breakwater. The biggest influence is expected to come from the south and thus the angle of the waves to attack the breakwater will be around 45$^\circ$ which is the value used for the modulation in SwanOne. The model was simulating with a grid size of around 5.55 m per cell and 10,000 time steps per simulation to get an accurate result.
 
-The final Simulation is shown in figure %\ref{Hsig_Depth_Plot} 
-and the actual value for the significant design wave hight from a one in 500 years storm at the near-shore in a depth of 12 meter is 5.614 m.
 \begin{figure}[H]
 \center
 \fbox{
 \includegraphics[width=\textwidth]{images/Hsig_Depth_Plot.png} 
 }
 \caption{Rose-diagram waves}
-%\label{Hsig_Depth_Plot}
+\label{Hsig_Depth_Plot}
 \end{figure}
+In the Swan model additional wind was  included but the set-up due to wave action was neglected, because it is included in the offshore wave data we gained and currents were neglected due to the location in the Mediterranean See with hardly any currents.
+Bathymetry,additional water level, wave hight, wind velocity and peak period were determined before, but now different angles of wave attack need to be considered.
+For determine which angles are of interest for the occurrence of sea and swell waves the Argoss data are checked again 
+%\ref{wavedata_angle}
+. As a result from the analysis the dominant direction for waves to occur are NW and S, which matches with the geographical expectations. Due to the orientation of the breakwater at the coast the waves from NW will arrive with a very large angle close to 90$^\circ$ according to the breakwater why the wave energy attacking the breakwater is quite small. Because of the small fetch length just wave with relative low energy will arrive perpendicular to the breakwater. The biggest influence is expected to come from the south and thus the angle of the waves to attack the breakwater will be around 45$^\circ$ which is the value used for the modulation in SwanOne. 
+The model was simulating with a grid size of around 5.55 m per cell and 10,000 time steps per simulation to get an accurate result.
+The final Simulation is shown in figure \ref{Hsig_Depth_Plot} and the actual value for the significant design wave hight from a one in 500 years storm at the near-shore in a depth of 12 meter is 5.614 m.

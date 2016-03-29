@@ -3,7 +3,8 @@
  \subsection{Wave-data check}
  
 Estimation of fetch-limited Waves; Method of Verhagen and Young: \\
-$ \tilde{H}=\tilde{H}_{\infty}[tanh(k_1 \tilde{F}^{m_1})]^p $ with $ \tilde{F}= \frac{g F}{U_{10}^2} $ and $H_[m0] = \frac{\tilde{H} U_{10}^2}{g} $ 
+$ \tilde{H}=\tilde{H}_{\infty}[tanh(k_1 \tilde{F}^{m_1})]^p $ with $ \tilde{F}= \frac{g F}{U_{10}^2} $ and $H_{m0} = \frac{\tilde{H} U_{10}^2}{g} $ \\
+The input:
 \begin{itemize}
 \item $\tilde{H}_{\infty}= 0.24 $
 \item $k_1= 4.41*10^{-4} $
@@ -16,10 +17,10 @@ $ \tilde{H}=\tilde{H}_{\infty}[tanh(k_1 \tilde{F}^{m_1})]^p $ with $ \tilde{F}= 
  \begin{itemize}
  \item $\tilde{F}=25000 $
  \item $\tilde{H}= 0.22 $
- \item
+ \item $H_{m0}= 8.8 m $
  \end{itemize}
- 
- 
+ 8.8 m is the maximum possible wave hight according to the fetch length and the Young/Verhagen method of dimensionless fetch.
+ \\
 \begin{figure}[H]
 \center
 \fbox{

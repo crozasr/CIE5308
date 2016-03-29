@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.13)  29 MAR 2016 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.13)  29 MAR 2016 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,13 +1373,13 @@ LaTeX Info: Redefining \nameref on input line 19.
 (c:/texlive/2014/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
-) <title.jpg, id=79, 484.209pt x 352.1958pt>
+) <title.jpg, id=83, 484.209pt x 352.1958pt>
 File: title.jpg Graphic file (type jpg)
  <use title.jpg>
 Package pdftex.def Info: title.jpg used on input line 61.
 (pdftex.def)             Requested size: 597.50787pt x 434.6224pt.
 
-<cover/logo_black.pdf, id=80, 125.46875pt x 77.28876pt>
+<cover/logo_black.pdf, id=84, 125.46875pt x 77.28876pt>
 File: cover/logo_black.pdf Graphic file (type pdf)
 
 <use cover/logo_black.pdf>
@@ -1469,39 +1469,34 @@ File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 Chapter 2.
 ) (./sections/boundary.tex [2
 
-]
+] [3]
 Chapter 3.
-[3
+[4
 
-] <images/Hsig_Depth_Plot.png, id=161, 421.575pt x 316.18124pt>
+] <images/Hsig_Depth_Plot.png, id=170, 421.575pt x 316.18124pt>
 File: images/Hsig_Depth_Plot.png Graphic file (type png)
 
 <use images/Hsig_Depth_Plot.png>
-Package pdftex.def Info: images/Hsig_Depth_Plot.png used on input line 47.
-(pdftex.def)             Requested size: 448.1309pt x 336.10577pt.
-
-Overfull \hbox (12.35977pt too wide) in paragraph at lines 47--48
- [] 
- []
-
-) (./sections/calculations.tex [4] [5 <./images/Hsig_Depth_Plot.png (PNG copy)>
-]
+Package pdftex.def Info: images/Hsig_Depth_Plot.png used on input line 87.
+(pdftex.def)             Requested size: 403.31508pt x 302.49327pt.
+) (./sections/calculations.tex [5] [6] [7 <./images/Hsig_Depth_Plot.png (PNG co
+py)>]
 Chapter 4.
-) (./sections/drawing.tex [6
+) (./sections/drawing.tex [8
 
 ]
 Chapter 5.
-[7
+[9
 
-] [8
+] [10
 
 ]) (./sections/construction.tex
 Chapter 6.
-) (./sections/research.tex [9
+) (./sections/research.tex [11
 
 ]
 Chapter 7.
-) (./appendices/appendix-a.tex [10
+) (./appendices/appendix-a.tex [12
 
 ]
 Appendix A.
@@ -1509,7 +1504,7 @@ Appendix A.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-<images/wave_pperiod_allyear.png, id=195, 867.24pt x 487.8225pt>
+<images/wave_pperiod_allyear.png, id=212, 867.24pt x 487.8225pt>
 File: images/wave_pperiod_allyear.png Graphic file (type png)
 
 <use images/wave_pperiod_allyear.png>
@@ -1521,7 +1516,7 @@ Overfull \hbox (12.35977pt too wide) in paragraph at lines 28--29
  [] 
  []
 
-<images/Rose_plot_u10.png, id=196, 607.26875pt x 446.66875pt>
+<images/Rose_plot_u10.png, id=213, 607.26875pt x 446.66875pt>
 File: images/Rose_plot_u10.png Graphic file (type png)
 
 <use images/Rose_plot_u10.png>
@@ -1532,7 +1527,7 @@ Overfull \hbox (12.35977pt too wide) in paragraph at lines 38--39
  [] 
  []
 
-<images/Rose_plot_Hoverall.png, id=197, 607.26875pt x 446.66875pt>
+<images/Rose_plot_Hoverall.png, id=214, 607.26875pt x 446.66875pt>
 File: images/Rose_plot_Hoverall.png Graphic file (type png)
 
 <use images/Rose_plot_Hoverall.png>
@@ -1543,27 +1538,14 @@ Overfull \hbox (12.35977pt too wide) in paragraph at lines 48--49
  [] 
  []
 
+) (./report.bbl [13
 
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 W
-      hatever XX
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-) (./report.bbl [11
-
-] [12 <./images/wave_pperiod_allyear.png> <./images/Rose_plot_u10.png>] [13 <./
+] [14 <./images/wave_pperiod_allyear.png> <./images/Rose_plot_u10.png>] [15 <./
 images/Rose_plot_Hoverall.png>])
 \Changes@OutFile=\write6
 \openout6 = `report.soc'.
 
- [14
+ [16
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
@@ -1572,7 +1554,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 13A2076A3B3529CB41590AB19914BBFE;1024.
+(rerunfilecheck)             Checksum: 976E601BDCCA67A908F70299355BA119;1093.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1580,13 +1562,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 22387 strings out of 493109
- 393542 string characters out of 6138586
- 472071 words of memory out of 5000000
- 25268 multiletter control sequences out of 15000+600000
+ 22394 strings out of 493109
+ 393629 string characters out of 6138586
+ 472186 words of memory out of 5000000
+ 25271 multiletter control sequences out of 15000+600000
  92526 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,66p,834b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,66p,703b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
 ive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2014/texmf-dist/fon
 ts/enc/dvips/roboto/rbto_dqw4cz.enc}{c:/texlive/2014/texmf-dist/fonts/enc/dvips
@@ -1603,10 +1585,10 @@ e/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2014/tex
 mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2014/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb><c:/texlive/2014/texmf-dist/fonts/type1/urw/helvet
 ic/uhvro8a.pfb>
-Output written on report.pdf (17 pages, 855304 bytes).
+Output written on report.pdf (19 pages, 860781 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
