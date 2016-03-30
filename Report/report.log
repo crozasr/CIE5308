@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  30 MAR 2016 21:28
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  30 MAR 2016 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1691,7 +1691,7 @@ Chapter 2.
 
 ] [3]
 Chapter 3.
-Missing character: There is no ⏗ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ׻ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
 (Font)              scaled to size 8.00012pt on input line 13.
@@ -1705,14 +1705,18 @@ LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 13.
 LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 13.
+Missing character: There is no ऒ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;+ssty=0;!
 [4
 
 ]
-Missing character: There is no ઌ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ⡓ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ০ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ➭ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no ῜ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ᨦ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;!
+Missing character: There is no ᢶ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 File: images/Hsig_Depth_Plot.png Graphic file (type QTm)
  <use  "images/Hsig_Depth_Plot.png" >
@@ -1724,13 +1728,13 @@ Missing character: There is no 䀙 in font [fonts/CambriaMath.ttf]/ICU:script=ma
 h;language=DFLT;mapping=tex-text;!
 Missing character: There is no 䖔 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䔧 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䔷 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䏲 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䐂 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䘵 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䔼 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䊶 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䊟 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 [5]) (./sections/calculations.tex [6] [7]
 Chapter 4.
@@ -1744,9 +1748,9 @@ Chapter 5.
 
 ]) (./sections/construction.tex
 Chapter 6.
-Missing character: There is no ᆣ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 㣠 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 㒉 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 㠺 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
 File: images/mapConstruction.eps Graphic file (type eps)
 <images/mapConstruction.eps>) (./sections/research.tex [11
@@ -1761,17 +1765,15 @@ Appendix A.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-Missing character: There is no 䖼 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ⷭ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;!
+Missing character: There is no ⮺ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no 䖄 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ᧂ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䕫 in font [fonts/CambriaMath.ttf]/ICU:script=mat
-h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no 䠏 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ࣻ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ᯢ in font [fonts/CambriaMath.ttf]/ICU:script=mat
-h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ၞ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ᄤ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 File: images/wave_pperiod_allyear.png Graphic file (type QTm)
 <use  "images/wave_pperiod_allyear.png" >
@@ -1806,18 +1808,23 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
- (./report.aux)
+ (./report.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
  38629 strings out of 493918
- 694545 string characters out of 6150562
+ 694540 string characters out of 6150562
  821160 words of memory out of 5000000
  41275 multiletter control sequences out of 15000+600000
  9683 words of font info for 97 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 63i,17n,66p,10411b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,17n,66p,10411b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on report.pdf (21 pages).

@@ -5,6 +5,7 @@
 The main steps during construction are:
 \begin{enumerate}
  \item Reposition old core
+ \item Place core
  \item Place sublayer
  \item Place armour layer on landward side
  \item Place toe
@@ -25,14 +26,23 @@ At the end a place to turn around is built.
 The width is 8m at least, so two trucks can easily pass each other and a crane or hydraulic excavator at some point does not hinder the truck transport.
 For parts of the old breakwater, where the damage is even more severe than depicted in cross-section A-A and B-B a hydraulic excavator/crane on a pontoon will be available to move rocks out of reach of the long reach hydraulic excavator inside its reach.
 
+\paragraph{Place core}
+The rocks for the core are delivered from quarry Kruj\"{e}.
+There rocks up to 2t are available \citep{MScRomano}.
+The distance of about 50km can easily be travelled by trucks (see \ref{fig:mapConstruction}). 
+Class 0.3t to 1t will be used.
+
 \paragraph{Place sublayer}
-The sublayer is made of rocks up to 2t, which are available via the quarry Kruj\"{e}.
-The distance of about 50km (see XX
+The sublayer is made of rocks of about 2t, which are the largest rocks available via the quarry Kruj\"{e} \citep{MScRomano}.
+The distance of about 50km (see \ref{fig:mapConstruction}) can easily be travelled by trucks.
+The grading delivered will be divided and rocks smaller than 2t will be used to fill the rest of the core.
+
+
 
 \begin{figure}[!htb]
   \center
   \includegraphics[width=\textwidth]{images/mapConstruction} 
-  \caption{Location of facilities needed for construction}
+  \caption{Location of facilities needed for construction (map from maps.google.com)}
   \label{fig:mapConstruction}
 \end{figure}
 

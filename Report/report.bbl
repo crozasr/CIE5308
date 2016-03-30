@@ -5,16 +5,14 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Geim and ter Tisha(2001)]{Geim2001}
-A.~K. Geim and H.~A. M.~S. ter Tisha.
-\newblock Detection of earth rotation with a diamagnetically levitating
-  gyroscope.
-\newblock \emph{Physica B: Condensed Matter}, 294--295:\penalty0 736--739,
-  2001.
-\newblock \doi{10.1016/S0921-4526(00)00753-5}.
+\bibitem[Kersten(2010)]{MScRomano}
+M.~K. Kersten.
+\newblock Master plan porto romano bay, albania.
+\newblock Master's thesis, Technical University of Delft, 2010.
 
 \bibitem[of~Engineers(2011)]{cem}
 US~Army~Corps of~Engineers.
-\newblock Coastal engineering manual, 2011.
+\newblock Coastal engineering manual.
+\newblock pages VI\--5\--i -- Vi\--5\--158, 2011.
 
 \end{thebibliography}
