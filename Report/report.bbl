@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{2}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -12,5 +12,9 @@ A.~K. Geim and H.~A. M.~S. ter Tisha.
 \newblock \emph{Physica B: Condensed Matter}, 294--295:\penalty0 736--739,
   2001.
 \newblock \doi{10.1016/S0921-4526(00)00753-5}.
+
+\bibitem[of~Engineers(2011)]{cem}
+US~Army~Corps of~Engineers.
+\newblock Coastal engineering manual, 2011.
 
 \end{thebibliography}

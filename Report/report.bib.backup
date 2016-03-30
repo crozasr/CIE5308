@@ -12,9 +12,3 @@
   quality = {1}
 }
 
-@misc{cem,
-  author = {US Army Corps of Engineers},
-  title  = {Coastal Engineering Manual},
-  year   = {2011},
-  pages  = {VI-5-i--Vi-5-158}
-}

@@ -32,7 +32,7 @@ The distance of about 50km (see XX
 \begin{figure}[!htb]
   \center
   \includegraphics[width=\textwidth]{images/mapConstruction} 
-  \caption{Location of facilities needed for construction (map from }
+  \caption{Location of facilities needed for construction}
   \label{fig:mapConstruction}
 \end{figure}
 

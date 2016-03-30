@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  30 MAR 2016 13:14
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.11.24)  30 MAR 2016 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1680,7 +1680,7 @@ File: cover/logo_black.pdf Graphic file (type QTm)
 ]
 (./sections/introduction.tex
 Chapter 1.
-Missing character: There is no ᝘ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ᭀ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 ) (./sections/criteria.tex [1
 
@@ -1691,6 +1691,8 @@ Chapter 2.
 
 ] [3]
 Chapter 3.
+Missing character: There is no ⏗ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;!
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
 (Font)              scaled to size 8.00012pt on input line 13.
 LaTeX Font Info:    Font shape `EU1/CambriaMath(1)/m/n' will be
@@ -1706,13 +1708,11 @@ LaTeX Font Info:    Font shape `EU1/CambriaMath(2)/m/n' will be
 [4
 
 ]
-Missing character: There is no ᜿ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ઌ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ᚙ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ০ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no ዓ in font [fonts/CambriaMath.ttf]/ICU:script=mat
-h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ᅣ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ῜ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 File: images/Hsig_Depth_Plot.png Graphic file (type QTm)
  <use  "images/Hsig_Depth_Plot.png" >
@@ -1724,13 +1724,13 @@ Missing character: There is no 䀙 in font [fonts/CambriaMath.ttf]/ICU:script=ma
 h;language=DFLT;mapping=tex-text;!
 Missing character: There is no 䖔 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䕔 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䔧 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䐙 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䏲 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䏮 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䘵 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䍃 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䊶 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 [5]) (./sections/calculations.tex [6] [7]
 Chapter 4.
@@ -1744,11 +1744,41 @@ Chapter 5.
 
 ]) (./sections/construction.tex
 Chapter 6.
+Missing character: There is no ᆣ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;!
+Missing character: There is no 㒉 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+h;language=DFLT;mapping=tex-text;+ssty=0;!
+
+! LaTeX Error: File `images/mapConstruction' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...[width=\textwidth]{images/mapConstruction}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.eps,.ps,.png,.jpg,.bmp,.pict,.tif,.psd,.mac,.sga,.tga,.gif
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./sections/research.tex [11
 
-]
+] [12]
 Chapter 7.
-) (./appendices/appendix-a.tex [12
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{Further Research and Validation}
+                                             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./appendices/appendix-a.tex [13
 
 ]
 Appendix A.
@@ -1756,19 +1786,17 @@ Appendix A.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-Missing character: There is no ᪆ in font [fonts/CambriaMath.ttf]/ICU:script=mat
-h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 䅄 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䖼 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no 㿴 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䖄 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 㿛 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䕫 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;+ssty=0;!
-Missing character: There is no 㯁 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no 䠏 in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no 㟐 in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ᯢ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
-Missing character: There is no ㍇ in font [fonts/CambriaMath.ttf]/ICU:script=mat
+Missing character: There is no ၞ in font [fonts/CambriaMath.ttf]/ICU:script=mat
 h;language=DFLT;mapping=tex-text;!
 File: images/wave_pperiod_allyear.png Graphic file (type QTm)
 <use  "images/wave_pperiod_allyear.png" >
@@ -1788,29 +1816,37 @@ Overfull \hbox (12.35663pt too wide) in paragraph at lines 48--49
  [] 
  []
 
-) (./report.bbl [13
+) (./appendices/appendix-b.tex [14
 
-] [14] [15])
+] [15] [16]
+Appendix B.
+) (./report.bbl [17
+
+])
 \Changes@OutFile=\write6
 \openout6 = `report.soc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
- [16
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
+ [18
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 91.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 92.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
- 38612 strings out of 493918
- 694275 string characters out of 6150562
+ 38637 strings out of 493918
+ 694551 string characters out of 6150562
  821160 words of memory out of 5000000
- 41263 multiletter control sequences out of 15000+600000
+ 41274 multiletter control sequences out of 15000+600000
  9683 words of font info for 97 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  63i,17n,66p,10411b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.pdf (19 pages).
+Output written on report.pdf (21 pages).

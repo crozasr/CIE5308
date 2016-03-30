@@ -15,8 +15,13 @@
 \contentsline {chapter}{\numberline {4}Design Calculations}{8}{chapter.4}
 \contentsline {chapter}{\numberline {5}Drawing}{9}{chapter.5}
 \contentsline {chapter}{\numberline {6}Construction Method and Planning}{11}{chapter.6}
-\contentsline {chapter}{\numberline {7}Further Research and Validation}{12}{chapter.7}
-\contentsline {chapter}{\numberline {A}Appendix A}{13}{appendix.A}
-\contentsline {subsection}{\numberline {A.0.1}Wave-data check}{13}{subsection.A.0.1}
-\contentsline {chapter}{Bibliography}{16}{appendix*.10}
+\contentsline {section}{\numberline {6.1}Construction Method}{11}{section.6.1}
+\contentsline {paragraph}{Reposition old core}{11}{Item.6}
+\contentsline {paragraph}{Place sublayer}{11}{Item.6}
+\contentsline {section}{\numberline {6.2}Production Calculation}{12}{section.6.2}
+\contentsline {chapter}{\numberline {7}Further Research and Validation}{13}{chapter.7}
+\contentsline {chapter}{\numberline {A}Appendix A}{14}{appendix.A}
+\contentsline {subsection}{\numberline {A.0.1}Wave-data check}{14}{subsection.A.0.1}
+\contentsline {chapter}{\numberline {B}Appendix B}{17}{appendix.B}
+\contentsline {chapter}{Bibliography}{18}{appendix*.11}
 \contentsfinish 
