@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {6.1}Construction Method}{11}{section.6.1}
 \contentsline {paragraph}{Reposition old core}{11}{Item.6}
 \contentsline {paragraph}{Place sublayer}{11}{Item.6}
-\contentsline {section}{\numberline {6.2}Production Calculation}{12}{section.6.2}
+\contentsline {section}{\numberline {6.2}Production Calculation}{11}{section.6.2}
 \contentsline {chapter}{\numberline {7}Further Research and Validation}{13}{chapter.7}
 \contentsline {chapter}{\numberline {A}Appendix A}{14}{appendix.A}
 \contentsline {subsection}{\numberline {A.0.1}Wave-data check}{14}{subsection.A.0.1}
